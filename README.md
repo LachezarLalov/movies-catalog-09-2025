@@ -2,7 +2,7 @@
 
 Workshop project - SoftUni JS BackEnd
 
-## Development steps
+### Development steps
 
 -   [x] Initialize Project
 -   [x] Add Express Server
@@ -15,3 +15,15 @@ Workshop project - SoftUni JS BackEnd
 -   [x] Render Create Page
 -   [x] Add layout
 -   [x] Render About Page
+
+### Architecture
+
+-   [ ] Add home controller
+-   [ ] Add movie data layer
+-   [ ] Add movie service
+-   [ ] Render movies on home page
+-   [ ] Show no movies on screen
+
+---
+
+-   [ ] Add routes
