@@ -10,5 +10,5 @@ Workshop project - SoftUni JS BackEnd
 -   [x] Setup Handlebars
 -   [x] Setup static files
 -   [x] Added static folder
--   [ ] Render Home Page
+-   [x] Render Home Page
 -   [ ] Config Debugging
