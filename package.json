@@ -21,6 +21,7 @@
     },
     "homepage": "https://github.com/LachezarLalov/movies-catalog-09-2025#readme",
     "dependencies": {
-        "express": "^5.1.0"
+        "express": "^5.1.0",
+        "express-handlebars": "^8.0.3"
     }
 }
