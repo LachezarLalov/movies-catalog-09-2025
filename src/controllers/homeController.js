@@ -4,10 +4,8 @@ import movieService from '../services/movieService.js';
 const homeController = Router();
 
 homeController.get('/', (req, res) => {
-    const moives = movieService.getAll();
-
-    console.log(moives);
-    res.render('home');
+    const movies = movieService.getAll();
+    res.render('home', { movies });
 });
 
 homeController.get('/about', (req, res) => {
