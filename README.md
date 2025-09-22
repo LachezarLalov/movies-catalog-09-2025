@@ -18,8 +18,8 @@ Workshop project - SoftUni JS BackEnd
 
 ### Architecture
 
--   [ ] Add home controller
--   [ ] Add movie data layer
+-   [x] Add home controller
+-   [x] Add movie data layer
 -   [ ] Add movie service
 -   [ ] Render movies on home page
 -   [ ] Show no movies on screen
