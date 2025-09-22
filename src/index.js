@@ -14,7 +14,11 @@ app.use(express.static('src/public'));
 // Routes
 
 app.get('/', (req, res) => {
-    res.render('home', { layout: false });
+    res.render('home');
+});
+
+app.get('/about', (req, res) => {
+    res.render('about');
 });
 
 app.listen(5000, () => {

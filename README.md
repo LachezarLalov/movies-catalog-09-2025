@@ -13,3 +13,5 @@ Workshop project - SoftUni JS BackEnd
 -   [x] Added static folder
 -   [x] Render Home Page
 -   [x] Render Create Page
+-   [x] Add layout
+-   [x] Render About Page
