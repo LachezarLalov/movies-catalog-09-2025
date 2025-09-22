@@ -5,7 +5,7 @@ Workshop project - SoftUni JS BackEnd
 ## Development steps
 
 -   [x] Initialize Project
--   [ ] Add Express Server
--   [ ] Add Worshop Resources
+-   [x] Add Express Server
+-   [x] Add Worshop Resources
 -   [ ] Setup Handlebars
 -   [ ] Render Home Page
