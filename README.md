@@ -7,5 +7,8 @@ Workshop project - SoftUni JS BackEnd
 -   [x] Initialize Project
 -   [x] Add Express Server
 -   [x] Add Worshop Resources
--   [ ] Setup Handlebars
+-   [x] Setup Handlebars
+-   [x] Setup static files
+-   [x] Added static folder
 -   [ ] Render Home Page
+-   [ ] Config Debugging
