@@ -31,7 +31,7 @@ Workshop project - SoftUni JS BackEnd
 - [x] Add Routes
 - [x] Read body data
 - [ ] Create new movie
-  - [ ] Add action
+  - [x] Add action
   - [ ] Add service
   - [ ] Add model method for creating movie
 
