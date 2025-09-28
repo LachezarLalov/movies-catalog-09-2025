@@ -32,7 +32,7 @@ Workshop project - SoftUni JS BackEnd
 - [x] Read body data
 - [ ] Create new movie
   - [x] Add action
-  - [ ] Add service
+  - [x] Add service
   - [ ] Add model method for creating movie
 
 ---

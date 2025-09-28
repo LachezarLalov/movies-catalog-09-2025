@@ -5,8 +5,8 @@ export default {
     return Movie.find();
   },
   create(movieData) {
-    // Create new movie
+    const movie = new Movie(movieData);
 
-    console.log(movieData);
+    return movie.save();
   },
 };
