@@ -63,8 +63,6 @@ export default class Movie {
   save() {
     movies.push(this);
 
-    console.log(movies);
-
     return this;
   }
 }
