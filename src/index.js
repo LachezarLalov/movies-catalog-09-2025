@@ -1,6 +1,7 @@
 import express from 'express';
 import handlebars from 'express-handlebars';
 import homeController from './controllers/homeController.js';
+import movieController from './controllers/movieController.js';
 
 const app = express();
 
@@ -8,13 +9,13 @@ const app = express();
 app.engine('hbs', handlebars.engine({ extname: 'hbs' }));
 app.set('view engine', 'hbs');
 app.set('views', 'src/views');
-
-// Setup middlewares
+// Setup middleware
 app.use(express.static('src/public'));
 
 // Routes
 app.use(homeController);
+app.use(movieController);
 
 app.listen(5000, () => {
-    console.log('Server is running on http://localhost:5000...');
+  console.log('Server is running on http://localhost:5000...');
 });
