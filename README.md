@@ -35,8 +35,8 @@ Workshop project - SoftUni JS BackEnd
   - [x] Add service
   - [x] Add model method for creating movie
 - [x] Redirect after creation
+- [ ] Add unique id for each movie
 
 ---
 
-- [ ] Add routes
 - [ ] Add 404 page

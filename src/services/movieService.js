@@ -7,6 +7,8 @@ export default {
   create(movieData) {
     const movie = new Movie(movieData);
 
+    console.log(movie);
+
     return movie.save();
   },
 };
