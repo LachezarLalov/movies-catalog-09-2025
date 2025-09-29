@@ -48,8 +48,8 @@ Workshop project - SoftUni JS BackEnd
 ### Search page
 
 - [x] Show static page
-- [ ] Remder all movies
-- [ ] Modify search form
+- [x] Remder all movies
+- [x] Modify search form
 - [ ] Filter movies
 - [ ] Remember search words
 

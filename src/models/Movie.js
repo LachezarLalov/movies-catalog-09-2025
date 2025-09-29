@@ -74,6 +74,7 @@ export default class Movie {
 
     if (filter.genre) {
       // TODO search by genre - exact match, case insensitive
+      result = result.filter((movie) => movie.genre.toLocaleLowerCase() === filter.genre.toLocaleLowerCase());
     }
 
     if (filter.year) {
