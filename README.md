@@ -47,7 +47,7 @@ Workshop project - SoftUni JS BackEnd
 
 ### Search page
 
-- [ ] Show static page
+- [x] Show static page
 - [ ] Remder all movies
 - [ ] Modify search form
 - [ ] Filter movies
