@@ -50,7 +50,7 @@ Workshop project - SoftUni JS BackEnd
 - [x] Show static page
 - [x] Remder all movies
 - [x] Modify search form
-- [ ] Filter movies
+- [x] Filter movies
 - [ ] Remember search words
 
 ### Bonus
