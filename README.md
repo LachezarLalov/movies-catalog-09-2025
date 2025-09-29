@@ -39,10 +39,16 @@ Workshop project - SoftUni JS BackEnd
 
 ### Detail page
 
+- [ ] Add navigation button for details page
+- [ ] Add route with param for details page
+- [ ] GetOne movie from service
+- [ ] Find movie by id from model
+- [ ] Render details page with dynamic data
+
 ### Search page
 
 ### Bonus
 
 ---
 
-- [ ] Add 404 page
+- [x] Add 404 page

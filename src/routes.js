@@ -8,7 +8,7 @@ const routes = Router();
 routes.use(homeController);
 routes.use('/movies', movieController);
 
-routes.get('{*splat}', (req, res) => {
+routes.all('{*splat}', (req, res) => {
   res.render('404');
 });
 
