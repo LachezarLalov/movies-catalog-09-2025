@@ -9,7 +9,7 @@ routes.use(homeController);
 routes.use('/movies', movieController);
 
 routes.all('{*splat}', (req, res) => {
-  res.render('404');
+  res.render('404',{ pageTitle: 'Page not found'});
 });
 
 export default routes;

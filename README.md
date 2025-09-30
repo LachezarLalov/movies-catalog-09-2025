@@ -15,6 +15,7 @@ Workshop project - SoftUni JS BackEnd
 - [x] Render Create Page
 - [x] Add layout
 - [x] Render About Page
+- [x] Add 403 page
 
 ### Architecture and dynamic rendering
 
@@ -51,13 +52,10 @@ Workshop project - SoftUni JS BackEnd
 - [x] Remder all movies
 - [x] Modify search form
 - [x] Filter movies
-- [ ] Remember search words
+- [x] Remember search words
 
 ### Bonus
 
+- [ ] Dynamic page title
 - [ ] File percistance
 - [ ] Rating
-
----
-
-- [x] Add 404 page
