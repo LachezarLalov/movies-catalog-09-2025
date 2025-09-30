@@ -58,4 +58,4 @@ Workshop project - SoftUni JS BackEnd
 
 - [x] Dynamic page title
 - [x] Rating (temp solution)
-- [ ] File persistance
+- [x] File persistance
