@@ -7,10 +7,10 @@ export default {
   getOne(movieId) {
     return Movie.findOne({ _id: movieId });
   },
-  create(movieData) {
-    const movie = new Movie(movieData);
+create(movieData) {
+    movieData.rating = Number(movieData.rating);
 
-    console.log(movie);
+    const movie = new Movie(movieData);
 
     return movie.save();
   },
